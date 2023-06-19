@@ -3,6 +3,7 @@ cc_binary {
     defaults: ["hidl_defaults"],
     init_rc: ["vendor.mediatek.hardware.mtkpower@1.2-service.stub.rc"],
     vendor: true,
+    vintf_fragments: ["vendor.mediatek.hardware.mtkpower@1.2-service.stub.xml"],
     relative_install_path: "hw",
     srcs: [
         "MtkPerf.cpp",
