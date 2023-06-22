@@ -1,0 +1,3 @@
+caa776776f84269d7e2ee469075972852f75d064ba847057b2e01e7277ee2bb3 vendor.mediatek.hardware.mtkpower@1.2::IMtkPerf
+abcc40c5875a671d2bcee98c9ee7169d70f95b83918d143d126d83fb534dde76 vendor.mediatek.hardware.mtkpower@1.2::IMtkPower
+87f0d036e62a087e0cf7ce3868adc6af4f96cb3c073dc2c80ea289b00f3914a0 vendor.mediatek.hardware.mtkpower@1.2::IMtkPowerCallback
